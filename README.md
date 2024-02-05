@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xykzzz
+- 🌱 I’m currently learning the c++
+- 📫 How to reach me : send an email at ```xykzzz@outlook.com```
